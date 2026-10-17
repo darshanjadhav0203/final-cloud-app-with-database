@@ -284,3 +284,7 @@ fabric.properties
 .DS_Store
 .DS_Store
 final_template.zip
+
+db.sqlite3
+.venv/
+seed_db.py
